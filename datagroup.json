@@ -1,0 +1,31 @@
+{
+  "available": [{
+      "itemSpecId": "ITEM-1",
+      "lpId": "ILP-1",
+      "status": "available",
+      "qty": 10,
+      "unit": "EA"
+    },
+    {
+      "itemSpecId": "ITEM-1",
+      "lpId": "ILP-4",
+      "status": "available",
+      "qty": 9,
+      "unit": "CS"
+    }
+  ],
+  "shipped": [{
+    "itemSpecId": "ITEM-2",
+    "lpId": "ILP-2",
+    "status": "shipped",
+    "qty": 10,
+    "unit": "EA"
+  }],
+  "locked": [{
+    "itemSpecId": "ITEM-3",
+    "lpId": "ILP-3",
+    "status": "locked",
+    "qty": 10,
+    "unit": "EA"
+  }]
+}
